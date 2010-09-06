@@ -1,0 +1,2 @@
+. $HOME/.bashrc
+[[ `tty` == /dev/tty1 ]] && exec fbterm

@@ -1,0 +1,10 @@
+set move = yes
+set copy = yes
+
+set folder    = ~/mail
+set mbox      = +/inbox
+set postponed = +/draft
+set record    = +/sent
+
+set sendmail = /usr/bin/msmtp
+set from     = nansun@amidia.net

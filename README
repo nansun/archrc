@@ -1,0 +1,7 @@
+-rw------- 1 fetchmail nobody 265  9月  5 11:18 /etc/fetchmailrc
+drwx------ 2 fetchmail nobody 80  9月  6 22:31 /var/run/fetchmail/
+
+-rw------- 1 root root   1679  9月  6 13:40 /etc/ssh/ssh_host_rsa_key
+-rw-r--r-- 1 root root    385  9月  6 13:43 /etc/ssh/ssh_host_rsa_key.pub
+-rw------- 1 nansun users 1766  9月  6 11:30 /home/nansun/.ssh/id_rsa
+-rw-r--r-- 1 nansun users  388  9月  6 13:51 /home/nansun/.ssh/authorized_keys

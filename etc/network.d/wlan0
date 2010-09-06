@@ -1,0 +1,6 @@
+CONNECTION='wireless'
+INTERFACE='wlan0'
+SECURITY='wep'
+ESSID='Nz_Happyzone'
+KEY='s:9-502'
+IP='dhcp'

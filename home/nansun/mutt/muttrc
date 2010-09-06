@@ -1,0 +1,17 @@
+set folder    = imaps://imap.gmail.com:993
+set imap_user = nansun@amidia.net
+set imap_pass = 3AxGiveY
+
+set smtp_url  = smtp://anarnan@smtp.gmail.com:587/
+set smtp_pass = 3AxGiveY
+set from      = nansun@amidia.net
+
+set spoolfile = +INBOX
+set postponed = +[Gmail]/草稿
+
+set header_cache     = ~/.mutt/cache/headers
+set message_cachedir = ~/.mutt/cache/bodies
+set certificate_file = ~/.mutt/certificates
+
+set move = no
+set copy = no
