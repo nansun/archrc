@@ -4,4 +4,5 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias matlab='matlab -nodisplay -nojvm'
+alias w3m='w3m -F -cookie -graph'
+#alias matlab='matlab -nodisplay -nojvm'

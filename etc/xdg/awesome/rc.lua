@@ -11,7 +11,6 @@ require("naughty")
 -- Themes define colours, icons, and wallpapers
 beautiful.init("/usr/share/awesome/themes/default/theme.lua")
 
-
 -- This is used later as the default terminal and editor to run.
 -- terminal = "xterm"
 -- terminal = "xterm -bg black -fg white -font -gnu-unifont-medium-r-normal--16-160-75-75-c-80-iso10646-1"
